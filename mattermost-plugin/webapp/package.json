@@ -84,7 +84,7 @@
     "webpack-dev-server": "4.10.0"
   },
   "dependencies": {
-    "core-js": "3.21.1",
+    "core-js": "3.29.1",
     "glob-parent": "6.0.2",
     "marked": ">=4.0.12",
     "mattermost-redux": "5.33.1",
