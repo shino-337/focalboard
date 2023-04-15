@@ -94,7 +94,7 @@
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
     "trim-newlines": "4.0.2",
-    "react-select": "^5.2.2"
+    "react-select": "^5.7.2"
   },
   "jest": {
     "testEnvironment": "jsdom",
